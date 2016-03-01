@@ -1,0 +1,9 @@
+1. Maquette(UX)
+	*site web
+	*apps
+2. DB: yassir
+
+3. Site web: maroua, yassir, mohamed
+  	* Covoiturage front-end & back-end: maroua, ali , abdellah
+  	* Bvette front-end & back-end :maroua, youness, habib
+  	* Bus front-end & back-end : maroua, omar, ali 
